@@ -19,9 +19,9 @@ I am a Full-Stack Developer and UI/UX Designer. I focus on building "pixel-perfe
 - 🎨 I am open to collaborating on open-source full-stack projects or creative UI/UX design initiatives.
 
 ## 📫 Connect with me
-- LinkedIn: linkedin.com/in/abdurrah2511 
-- Portfolio: abdurrah2511.com 
-- Email: abdurrah2511@gmail.com 
+- LinkedIn: linkedin.com/in/abdurrah0006
+- Portfolio: abdurrah0006.com 
+- Email: abdurrah0006@gmail.com 
 
 ## ⚡Fun fact: 
 I started programming because I found it fun to create things people actually use, and I genuinely enjoy the "aha!" moment of debugging complex code.
